@@ -1,0 +1,21 @@
+{
+  "name": "codeuz/csv",
+  "description": "To export data to CSV with Laravel 5.2",
+  "homepage": "https://github.com/apalette/laravel-csv",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aurélie Palette",
+      "email": "aurelie.palette@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": "~5.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Codeuz\\Csv\\": "src/"
+    }
+  }
+}
