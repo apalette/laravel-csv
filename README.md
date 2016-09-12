@@ -10,7 +10,7 @@ Add Csv Package to your **composer.json** file to require Bootstrap :
 ```
     require : {
         "laravel/framework": "5.2.*",
-        "codeuz/cdv": "dev-master"
+        "codeuz/csv": "dev-master"
     }
 ```
  
